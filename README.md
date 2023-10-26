@@ -1,8 +1,8 @@
 # 🗿 Hello World I'm Rodent12
 
 - I'm currently working on [Aaspaas](https://github.com/AasPaas-5) "A second-hand product listing platform for college students"
-- I'm currently learning React and DSA
-- Ask me about NodeJS and ExpressJS
+- I'm currently learning AWS.
+- Ask me about NodeJS and React
 - Reach me at : sayyam.jain.mec21@itbhu.ac.in
 
 
